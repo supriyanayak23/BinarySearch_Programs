@@ -17,3 +17,6 @@ if index == -1:
     print("no such element")
 else:
     print(f"The value {key} is at {index+1} position")
+
+
+Print("Amit added his changes")
