@@ -43,3 +43,5 @@ print(f"{key} occured {(index_last-index1)+1} times in the given array.")
 
 print("Supriya added her changes.")
 print("Supriya_2 added changes")
+print("Amit_2 added changes.")
+
