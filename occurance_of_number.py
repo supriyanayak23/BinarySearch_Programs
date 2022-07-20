@@ -40,3 +40,5 @@ else:
     print(f"The first occurance of {key} is at {index1} index")
     print(f"The first occurance of {key} is at {index_last} index")
 print(f"{key} occured {(index_last-index1)+1} times in the given array.")
+
+print("Supriya added her changes.")
